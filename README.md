@@ -1,17 +1,16 @@
 # Ryoun Uekita
 
-I am Ryoun Uekita, a medical student at Nagasaki University with interests in tropical medicine, molecular parasitology, Trypanosoma cruzi CRISPR/Cas9, bioinformatics, and medical machine learning.
+I am Ryoun Uekita, a medical student at Nagasaki University with interests in tropical medicine, molecular parasitology, *Trypanosoma cruzi* CRISPR/Cas9, bioinformatics, and medical machine learning.
 
 ## Current focus
 
-- Trypanosoma cruzi CRISPR/Cas9 design workflows
-- Kinetoplastid parasite biology
+- *T. cruzi* CRISPR/Cas9 design workflows
 - Reproducible bioinformatics
 - Medical machine learning using public datasets
 
 ## Public projects
 
-- `tcruzi-crispr-designs` — research-oriented repository for public-sequence-based T. cruzi CRISPR/Cas9 design workflows.
+- `tcruzi-crispr-designs` — research-oriented repository for public-sequence-based *T. cruzi* CRISPR/Cas9 design workflows.
 - `medical-machine-learning` — planned public repository for medical machine learning using open datasets.
 
 ## Profiles
