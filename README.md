@@ -20,4 +20,4 @@ I am Ryoun Uekita, a medical student at Nagasaki University with interests in tr
 
 ## About
 
-I am building public research and programming projects at the intersection of parasitology, genome editing, bioinformatics, and medical AI.
+I am building public research and programming projects at the intersection of parasitology, genome editing, bioinformatics, and medical artificial intelligence.
