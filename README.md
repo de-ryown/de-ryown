@@ -11,7 +11,7 @@ I am Ryoun Uekita, a medical student at Nagasaki University working on molecular
 ## Public projects
 
 - `tcruzi-crispr-designs` — research-oriented repository for public-sequence-based *T. cruzi* CRISPR/Cas9 design workflows.
-- `medical-machine-learning` — planned public repository for medical machine learning using open datasets.
+- `biomed-ml-laboratory` — planned public repository for medical machine learning using open datasets.
 
 ## Profiles
 
