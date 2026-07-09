@@ -5,8 +5,7 @@ I am Ryoun Uekita, a medical student at Nagasaki University working on molecular
 ## Current focus
 
 - *T. cruzi* CRISPR/Cas9 design workflows
-- Reproducible bioinformatics
-- Medical machine learning using public datasets
+- Biomedical machine learning using public datasets
 
 ## Public projects
 
