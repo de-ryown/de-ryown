@@ -1,6 +1,6 @@
 # Ryoun Uekita
 
-I am Ryoun Uekita, a medical student at Nagasaki University with interests in tropical medicine, molecular parasitology, *Trypanosoma cruzi* CRISPR/Cas9, bioinformatics, and medical machine learning.
+I am Ryoun Uekita, a medical student at Nagasaki University working on molecular parasitology, with a current focus on *Trypanosoma cruzi* CRISPR/Cas9. I am also interested in bioinformatics, reproducible research, and AI in biomedicine.
 
 ## Current focus
 
