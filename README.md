@@ -1,6 +1,6 @@
 # Ryoun Uekita
 
-I am Ryoun Uekita, a medical student at Nagasaki University working on molecular parasitology, with a current focus on *Trypanosoma cruzi* CRISPR/Cas9. I am also interested in bioinformatics, reproducible research, and AI in biomedicine.
+I am Ryoun Uekita, a medical student at Nagasaki University working on molecular parasitology, with a current focus on *Trypanosoma cruzi* CRISPR/Cas9. I am also interested in bioinformatics, reproducible research, and biomedical AI.
 
 ## Current focus
 
@@ -16,7 +16,3 @@ I am Ryoun Uekita, a medical student at Nagasaki University working on molecular
 ## Profiles
 
 - GitHub: [`de-ryown`](https://github.com/de-ryown)
-
-## About
-
-I am building public research and programming projects at the intersection of parasitology, genome editing, bioinformatics, and medical artificial intelligence.
