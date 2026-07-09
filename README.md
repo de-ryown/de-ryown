@@ -1,16 +1,23 @@
-## Hi there 👋
+# Ryoun Uekita
 
-<!--
-**de-ryown/de-ryown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Ryoun Uekita, a medical student at Nagasaki University with interests in tropical medicine, molecular parasitology, Trypanosoma cruzi CRISPR/Cas9, bioinformatics, and medical machine learning.
 
-Here are some ideas to get you started:
+## Current focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Trypanosoma cruzi CRISPR/Cas9 design workflows
+- Kinetoplastid parasite biology
+- Reproducible bioinformatics
+- Medical machine learning using public datasets
+
+## Public projects
+
+- `tcruzi-crispr-designs` — research-oriented repository for public-sequence-based T. cruzi CRISPR/Cas9 design workflows.
+- `medical-machine-learning` — planned public repository for medical machine learning using open datasets.
+
+## Profiles
+
+- GitHub: [`de-ryown`](https://github.com/de-ryown)
+
+## About
+
+I am building public research and programming projects at the intersection of parasitology, genome editing, bioinformatics, and medical AI.
