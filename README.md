@@ -1,17 +1,26 @@
-# Ryoun Uekita
+```text
+===============================================================
+RYOUN UEKITA
+Medical Student | Experimental Biology × Computation
+===============================================================
 
-I am Ryoun Uekita, a medical student at Nagasaki University working on molecular parasitology, with a current focus on *Trypanosoma cruzi* CRISPR/Cas9. I am also interested in bioinformatics, reproducible research, and biomedical AI.
+Working on T. cruzi at the interface of experimental biology 
+and computation.
 
-## Current focus
+RESEARCH
+├── Molecular parasitology
+│   └── Genome editing
+└── Computational biology
+    ├── Genomic data analysis
+    └── Machine learning for biomedicine
 
-- *T. cruzi* CRISPR/Cas9 design workflows
-- Biomedical machine learning using public datasets
+BUILDING
+├── Reproducible research workflows
+├── Open scientific projects
+└── Tools for biological data analysis
 
-## Public projects
+BASED IN
+└── Nagasaki, Japan
 
-- `tcruzi-crispr-designs` — research-oriented repository for public-sequence-based *T. cruzi* CRISPR/Cas9 design workflows.
-- `biomed-ml-laboratory` — planned public repository for medical machine learning using open datasets.
-
-## Profiles
-
-- GitHub: [`de-ryown`](https://github.com/de-ryown)
+===============================================================
+```
