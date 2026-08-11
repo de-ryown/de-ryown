@@ -1,26 +1,7 @@
-```text
-===============================================================
-RYOUN UEKITA
-Medical Student | Experimental Biology × Computation
-===============================================================
+## RYOUN UEKITA
 
-Working on T. cruzi at the interface of experimental biology 
-and computation.
+_MD candidate_
 
-RESEARCH
-├── Molecular parasitology
-│   └── Genome editing
-└── Computational biology
-    ├── Genomic data analysis
-    └── Machine learning for biomedicine
+Molecular parasitology and genome editing at the bench, and the computational biology that follows.
 
-BUILDING
-├── Reproducible research workflows
-├── Open scientific projects
-└── Tools for biological data analysis
-
-BASED IN
-└── Nagasaki, Japan
-
-===============================================================
-```
+Public repositories will appear here as they are released.
