@@ -1,7 +1,5 @@
-## RYOUN UEKITA
+### ryoun uekita
 
-_MD candidate_
+md candidate exploring molecular parasitology at the bench, and the computational biology that follows.
 
-Molecular parasitology and genome editing at the bench, and the computational biology that follows.
-
-Public repositories will appear here as they are released.
+public repositories will appear here as they are released.
